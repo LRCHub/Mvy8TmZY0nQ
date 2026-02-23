@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "8月31日",
+  "base_artist": "クレナズム",
+  "createdAt": "2026-02-23T10:34:15.916991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "8月31日",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_8月31日_DECO_27_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "8月31日",
+      "artist": "deco27 feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/02_8月31日_deco27_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "8月31日",
+      "artist": "DECO*27 feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_8月31日_DECO_27_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "8月31日",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_8月31日_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "8月31日 feat. Hatsune Miku",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_8月31日_feat._Hatsune_Miku_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "8/31 - 8月31日",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/06_8_31_-_8月31日_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "8月31日",
+      "artist": "クレナズム",
+      "has_synced": false,
+      "path": "select/pl_01_8月31日_クレナズム.txt"
+    }
+  ]
+}
